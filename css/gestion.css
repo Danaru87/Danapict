@@ -1,0 +1,117 @@
+/* 
+Auteur : Arnaud Da Silva
+Contact : dasilva.arnaud@gmail.com
+Pour Othentic.fr
+Mai 2013
+*/
+
+#content, #content2, #accueil
+{
+	margin: auto;
+	width: 960px;
+}
+
+#accueil
+{
+	text-align: center;
+}
+
+.readonly
+{
+	color: #B3B3B3;
+}
+#LoginForm
+{
+	text-align: center;
+}
+
+#image
+{
+	float: left;
+	margin: 20px auto;
+	margin-left: 177px;
+	border: 1px solid #ccc;
+	width: 200px;
+	height: 200px;
+	/* ie5win fudge begins */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+}
+
+.input
+{
+	color: red;
+}
+
+#miniature
+{
+	width: 960px;
+	padding: auto;
+	overflow: auto;
+	text-align: center;
+	border: 1px solid black;
+}
+#roll
+{
+	width: 960px;
+}
+#visible
+{
+	display: inline-block;
+	width: 960px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+#formulaire
+{
+	overflow: auto;
+	float: left;
+	padding: 10px;
+	margin: 20px auto;
+	margin-left: 5px;
+	border: 1px solid #ccc;
+	width: 400px;
+	/* ie5win fudge begins */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+
+}
+#upload
+{
+	text-align: center;
+	margin: auto;
+	border: 1px solid #ccc;
+	width: 960px;
+	/* ie5win fudge begins */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+
+}
+
+ul
+{
+	list-style-type: none;;
+}
+li 
+{
+	margin-left: 10px;
+	float: left;
+}
+#logo
+{
+	float: left;
+}
+
+#menu
+{
+	float: right;
+	display: inline-block;
+	list-style-type: none;
+	list-style: none;
+
+}
+
+.spacer
+{
+	clear: both;
+}
